@@ -1,0 +1,101 @@
+{
+  "code": "KTC",
+  "title": "SMASH KTC",
+  "school": "한국관광대",
+  "fullName": "한국관광대학교",
+  "campusName": "한국관광대학교",
+  "tagline": "한국관광대를 부셔 (시험기간 스트레스 해소)",
+  "description": "한국관광대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 한국관광대학교 3D 화면과 SMASH KTC 제목",
+  "url": "https://hong-iron.github.io/SMASH-KTC/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 971168529
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.2833355,
+        127.3768408
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 아동 동쪽 끝에 붙은 등록 자리를 크게 확대해 봐도 지붕은 없고 나무만 보입니다."
+    },
+    {
+      "at": [
+        37.2833556,
+        127.3778645
+      ],
+      "n": "라동",
+      "why": "항공사진에 없음 — 라동이 등록된 자리는 입구 도로 옆 숲이고 캠퍼스 경계 밖이며, 근처의 작은 실제 건물은 17번으로 이미 그려져 있습니다."
+    }
+  ],
+  "look": {
+    "노인전문병원": {
+      "style": "tan",
+      "wall": "#c9b1a2",
+      "glass": "#2a3d3c",
+      "frame": "#ddd7cd"
+    },
+    "제1강의동": {
+      "style": "brick",
+      "wall": "#7a6466",
+      "glass": "#414c4f",
+      "frame": "#d3c6bc"
+    },
+    "본관": {
+      "style": "stone",
+      "wall": "#ebebe7",
+      "glass": "#4a5a58",
+      "frame": "#d3d1cb"
+    },
+    "체육관": {
+      "style": "stone",
+      "wall": "#dfe1da",
+      "glass": "#2c4043",
+      "frame": "#b9bdb8",
+      "roof": "#9eab9a",
+      "hip": true
+    },
+    "제2강의동": {
+      "style": "stone",
+      "wall": "#e9e9e3",
+      "glass": "#3d4e50",
+      "frame": "#bbc7c0"
+    },
+    "종합학술관": {
+      "style": "stone",
+      "wall": "#e3e6df",
+      "glass": "#233a44",
+      "frame": "#b4bcbc"
+    },
+    "남자기숙사A": {
+      "style": "dorm",
+      "wall": "#e6e9ea",
+      "glass": "#3e4144",
+      "frame": "#c3cacd"
+    },
+    "여자기숙사B": {
+      "style": "brick",
+      "wall": "#7a6466",
+      "glass": "#414c4f",
+      "frame": "#d3c6bc"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#745f62",
+      "glass": "#2a3d4f",
+      "frame": "#dacdc6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
