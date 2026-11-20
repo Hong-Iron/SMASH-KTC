@@ -1,0 +1,34 @@
+{
+ "region": "경기 이천시 신둔면",
+ "nameEn": "Korea Tourism College",
+ "added": "2026-11-01T02:27",
+ "rank": 219,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "TONGWON",
+   "campus": "동원대학교",
+   "km": 5.4
+  },
+  {
+   "code": "CHUNGKANG",
+   "campus": "청강문화산업대학교",
+   "km": 8.9
+  },
+  {
+   "code": "HUFS-GLOBAL",
+   "campus": "한국외국어대학교 글로벌캠퍼스",
+   "km": 11.6
+  },
+  {
+   "code": "YSC",
+   "campus": "용인예술과학대학교",
+   "km": 15.5
+  },
+  {
+   "code": "ICTPOLY",
+   "campus": "ICT폴리텍대학",
+   "km": 17.1
+  }
+ ]
+}
